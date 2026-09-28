@@ -32,9 +32,8 @@ A static landing page for **SmileSchool**, a fictional online platform where peo
 
 No build tools or dependencies are needed.
 
-## Status
-
-Markup only: there is no CSS or JavaScript yet. Text is placeholder (Lorem ipsum) in several places, and image files must be added for the page to display fully.
+## Design Reference
+https://github.com/david-aurel-lenoir/alu-web-development/blob/master/html_advanced/homepage.png
 
 ## Next steps
 
